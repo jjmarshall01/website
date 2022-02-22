@@ -1,4 +1,12 @@
+
 {
-    "firstName": "Rack",
-    "lastName": "Jackon",
-    "gender": "man",}
+    name:"DCIM" ,
+    type: "folder" ,
+    path: DCIM" ,
+   - items: [
+    - { 
+    name: "Snapchats" ,
+    type "folder",
+    path: "DCIM/pictures",
+    items: []
+},
